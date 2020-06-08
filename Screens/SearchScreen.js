@@ -62,6 +62,7 @@ this.loadNext2()
   }
 
     loadNext2=async()=>{
+      if(this.state.page<=3)
 try{
   
   
